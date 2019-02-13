@@ -10,6 +10,7 @@
     "dotenv": "^6.2.0",
     "express": "~4.16.0",
     "horizon-youtube-mp3": "^1.9.1",
+    "npm": "^6.7.0",
     "telegraf": "^3.27.1"
   }
 }
